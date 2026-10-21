@@ -7,7 +7,7 @@ const recipes = [
   ['Chicken Meatballs with Cream Cheese', 'recipe-4.png', '30 Minutes', 'Meat'],
   ['Fresh and Healthy Mixed Mayonnaise Salad', 'recipe-5.png', '30 Minutes', 'Vegan'],
   ['Strawberry Oatmeal Pancake with Honey Syrup', 'recipe-6.png', '30 Minutes', 'Breakfast'],
-  ['Big and Juicy Wagyu Beef Cheeseburger', 'recipe-1.png', '30 Minutes', 'Snacks'],
+  ['Big and Juicy Wagyu Beef Cheeseburger', 'recipe-7.png', '30 Minutes', 'Snacks'],
   ['Fresh Lime Roasted Salmon with Ginger Sauce', 'recipe-2.png', '30 Minutes', 'Fish'],
   ['Firecracker Vegan Lettuce Wraps', 'recipe-5.png', '15 Minutes', 'Vegan']
 ];
@@ -18,7 +18,7 @@ const blogPosts = [
   ['Full Guide to Becoming a Professional Chef', 'Simple habits, essential skills and the mindset that makes a great cook.', 'chef.png'],
   ['Simple & Delicious Vegetarian Lasagna', 'A rich, layered weeknight favorite with vegetables, herbs and silky sauce.', 'recipe-4.png'],
   ['Plantain and Pinto Stew with Aji Verde', 'A cozy one-pot dinner with bright herbs and just the right amount of heat.', 'recipe-3.png'],
-  ['We Are Hiring a Communications Assistant', 'Come tell delicious stories with a small, curious and food-loving team.', 'recipe-1.png']
+  ['We Are Hiring a Communications Assistant', 'Come tell delicious stories with a small, curious and food-loving team.', 'recipe-7.png']
 ];
 
 const categories = [
